@@ -1,0 +1,8 @@
+prefix=/home/liu/workspace/catkin_ws/devel
+
+Name: se_station
+Description: Description of se_station
+Version: 0.0.0
+Cflags: -I/home/liu/workspace/catkin_ws/devel/include
+Libs: -L${prefix}/lib 
+Requires: message_runtime
